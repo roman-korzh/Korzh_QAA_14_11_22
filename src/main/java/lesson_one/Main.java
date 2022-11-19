@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("This is the first lesson");
         System.out.println("Another test string");
+        System.out.println("String for testing");
     }
 }
