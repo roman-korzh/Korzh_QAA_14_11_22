@@ -1,2 +1,4 @@
-package lesson_two;public class NewTestJavaClass {
+package lesson_two;
+
+public class NewTestJavaClass {
 }
